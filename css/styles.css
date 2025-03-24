@@ -172,8 +172,6 @@ img {
 .features-list {
   display: flex;
   gap: 24px;
-  margin-bottom: 120px;
-  margin-top: 105px;
 }
 .features-list-item {
   width: calc((100% - 72px) / 4);
@@ -235,7 +233,6 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  margin-bottom: 32px;
 }
 
 /* Portfolio */
